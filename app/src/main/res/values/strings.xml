@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="Friends">
+        <item>Maeve</item>
+        <item>Navie</item>
+        <item>Putaa</item>
+        <item>Mark</item>
+        <item>Normandy</item>
+    </string-array>
+
+</resources>
